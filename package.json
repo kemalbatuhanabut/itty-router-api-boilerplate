@@ -1,0 +1,12 @@
+{
+  "name": "itty-router-api-boilerplate",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Minimal Node.js API boilerplate using itty-router",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "itty-router": "^4.0.10"
+  }
+}
